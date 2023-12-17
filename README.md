@@ -1,6 +1,5 @@
 # My-Project-02
-#UOM 
+#University of Moratuwa
+#full stack developer course
 
-Web Development - 1. Web Design for Beginners
-Course Level Assignments
-Assessment 02 - Share Your Web Designs - New
+Web Development - 1. Web Design for Beginners /Course Level Assignments/Assessment 02 - Share Your Web Designs - New
